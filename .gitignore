@@ -1,4 +1,6 @@
 *.pyc
 data/
 *.db
-
+*.root
+multiCompare.sh
+testOutput/
